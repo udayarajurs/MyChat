@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "875430505130",
+    "firebase_url": "https://mychat-427d2.firebaseio.com",
+    "project_id": "mychat-427d2",
+    "storage_bucket": "mychat-427d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875430505130:android:c19deb059340b6c35e7ed3",
+        "android_client_info": {
+          "package_name": "com.udayarajurs.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875430505130-40vn2pt0kfc9qoq5cf8nckfeaq1p10bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUii28Xi2xPNrFXcuBF8xTuO997OxOZ8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875430505130-40vn2pt0kfc9qoq5cf8nckfeaq1p10bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
