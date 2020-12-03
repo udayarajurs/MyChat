@@ -133,7 +133,6 @@ public class ChatActivity extends AppCompatActivity {
                             Intent intent = new Intent();
                             intent.setAction(Intent.ACTION_GET_CONTENT);
                             intent.setType("image/*");
-                            intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
                             startActivityForResult(Intent.createChooser(intent,"Select Image") , 111);
                         }
                         if( i == 1){
